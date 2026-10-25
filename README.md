@@ -1,9 +1,9 @@
-# Customer Accounts Microservice
+# DevOps Capstone
 
-![Build Status](https://github.com/Ansh282006/customer-accounts-microservice/actions/workflows/ci-build.yaml/badge.svg)
+![Build Status](https://github.com/Ansh282006/DevOps Capstone/actions/workflows/ci-build.yaml/badge.svg)
 
 ## Project Name
-Customer Accounts Microservice
+DevOps Capstone
 
 ## Description
 A RESTful microservice for managing customer accounts. It supports creating, reading, updating, deleting, and listing accounts. The project uses Flask and PostgreSQL, with automated tests, Continuous Integration via GitHub Actions, security headers (Talisman and CORS), Docker containerization, and deployment on Kubernetes.
